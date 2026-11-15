@@ -1,8 +1,8 @@
-# PROJETO: JONATHAN GOIANA FINANCIAL CENTER — SISTEMA COMPLETO DE GESTÃO FINANCEIRA PESSOAL
+# PROJETO: JONATHAN GOIANA FINANCE CENTER — SISTEMA COMPLETO DE GESTÃO FINANCEIRA PESSOAL
 
 ## 1. VISÃO GERAL DO PROJETO
 
-Desenvolva uma aplicação web completa, moderna, profissional e responsiva para gestão financeira pessoal, chamada **JONATHAN GOIANA FINANCIAL CENTER**. Esse é o nome oficial e definitivo do produto; não use “JONATHAN GOIANA FINANCE CENTER” como nome exibido ao usuário. Aplique a identidade nominal em toda a interface: tela de login, dashboard, cabeçalho, menus, título da página do navegador, metadados e documentos/relatórios gerados. Use **JONATHAN GOIANA FINANCIAL CENTER** por extenso na marca principal.
+Desenvolva uma aplicação web completa, moderna, profissional e responsiva para gestão financeira pessoal, chamada **JONATHAN GOIANA FINANCE CENTER**. Esse é o nome oficial e definitivo do produto. Aplique a identidade nominal em toda a interface: tela de login, dashboard, cabeçalho, menus, título da página do navegador, metadados e documentos/relatórios gerados. Use **JONATHAN GOIANA FINANCE CENTER** por extenso na marca principal.
 
 O sistema deverá funcionar como um centro de controle financeiro pessoal, integrando:
 
